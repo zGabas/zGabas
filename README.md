@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Fala, eu sou o Gabriel!</h1>
+<h1 align="center">🚀 Opa, eu me chamo Gabriel Sousa.</h1>
 
 <p align="center">
   💻 Entusiasta de tecnologia <br>
@@ -20,8 +20,8 @@
 ## 🧰 Tecnologias que eu mexo
 
 ```bash
-💻 HTML | CSS | JavaScript
-🐍 Python
-🗄️ Node.js
-🖥️ Servidores / Minecraft
+💻 HTML | CSS | JavaScript (Aprendendo, não me chame para fazer projeto porque não sei de nada)
+🐍 Python (Aprendendo pt. 2)
+🗄️ Node.js (Sei lá também)
+🖥️ Servidores / Minecraft (Faço servidores de Minecraft por hobby mesmo.)
 🔧 Automação & Scripts aleatórios
