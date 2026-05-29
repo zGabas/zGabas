@@ -20,8 +20,7 @@
 ## 🧰 Tecnologias que eu mexo
 
 ```bash
-💻 HTML | CSS | JavaScript (Aprendendo, não me chame para fazer projeto porque não sei de nada)
-🐍 Python (Aprendendo pt. 2)
-🗄️ Node.js (Sei lá também)
+🗄️ Node.js
 🖥️ Servidores / Minecraft (Faço servidores de Minecraft por hobby mesmo.)
 🔧 Automação & Scripts aleatórios
+🌐 Pterodactyl, Wings, etc.
